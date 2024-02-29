@@ -1,6 +1,5 @@
 import Cocoa
 import HaishinKit
-import Logboard
 
 let logger = LBLogger.with("com.haishinkit.Exsample.macOS")
 

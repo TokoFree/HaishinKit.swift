@@ -1,6 +1,5 @@
 import AVFoundation
 import HaishinKit
-import Logboard
 import SwiftUI
 
 let logger = LBLogger.with("com.haishinkit.HaishinKit.iOSSwiftUI")

@@ -3,7 +3,6 @@
 //
 
 import CompositorServices
-import Logboard
 import SwiftUI
 
 let logger = LBLogger.with("com.haishinkit.HaishinKit.visionOSApp")

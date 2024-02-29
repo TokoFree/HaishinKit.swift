@@ -1,7 +1,6 @@
 import Foundation
 import HaishinKit
 import libsrt
-import Logboard
 
 private let kSRTSocket_defaultOptions: [SRTSocketOption: Any] = [:]
 private let kSRTSOcket_payloadSize: Int = 1316

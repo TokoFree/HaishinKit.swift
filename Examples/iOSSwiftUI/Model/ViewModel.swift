@@ -1,7 +1,6 @@
 import AVFoundation
 import Combine
 import HaishinKit
-import Logboard
 import PhotosUI
 import SwiftUI
 import VideoToolbox

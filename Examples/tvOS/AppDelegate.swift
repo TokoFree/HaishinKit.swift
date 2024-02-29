@@ -1,6 +1,5 @@
 import AVFAudio
 import HaishinKit
-import Logboard
 import UIKit
 
 let logger = LBLogger.with("com.haishinkit.Exsample.tvOS")

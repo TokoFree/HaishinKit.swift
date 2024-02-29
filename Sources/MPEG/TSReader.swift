@@ -1,6 +1,5 @@
 import AVFoundation
 import Foundation
-import Logboard
 
 /// The interface an MPEG-2 TS (Transport Stream) reader uses to inform its delegates.
 public protocol TSReaderDelegate: AnyObject {
